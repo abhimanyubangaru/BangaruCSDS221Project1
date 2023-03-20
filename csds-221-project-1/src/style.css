@@ -1,0 +1,26 @@
+h3 {
+  color: red; 
+  margin-bottom:5px;
+  
+}
+
+
+hr {
+  margin-top: 0px;
+}
+
+
+.submitButtonExtendedStyle{
+  width:210px;
+}
+.divSubmit{
+    margin-right: 20px; 
+}
+.resetButtonExtendedStyle{
+  width:210px;
+
+}
+
+.divReset{
+    padding-right: 20px;
+}
